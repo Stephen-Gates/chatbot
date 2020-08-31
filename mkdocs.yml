@@ -1,0 +1,110 @@
+# Project information
+site_name: LeanIX Chatbot
+site_url: https://stephen-gates.github.io/chatbot/site
+site_author: Stephen Gates
+site_description: >-
+  A design for a LeanIX Chatbot
+
+# Copyright
+copyright: Copyright &copy; 2020 Stephen Gates - CC BY-SA 4.0
+    
+# Configuration
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: blue
+      accent: blue
+      toggle:
+        icon: octicons/sun-16
+        name: Switch to light mode
+    - scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: octicons/moon-16
+        name: Switch to dark mode    
+  font:
+    text: Raleway
+    code: Roboto Mono  
+  logo: images/logo.png
+  #favicon: assets/images/favicon.png
+  features:
+    - search.highlight
+    - header.hide
+    #- navigation.expand
+    
+# CSS overrides for color 
+extra_css:
+  - stylesheets/extra.css
+  
+# Customisation 
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/SGatesHQ
+      name: SGatesHQ on twitter
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/sdgates/ 
+      name: Stephen Gates on LinkedIn
+    - icon: fontawesome/brands/github
+      link: https://github.com/Stephen-Gates/chatbot
+      name: LeanIX Report Gallery on GitHub  
+   
+# Extensions  
+markdown_extensions:
+  - admonition  
+  - attr_list
+  - footnotes
+  - meta  
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tabbed
+  - toc:
+      #permalink: ⚓︎
+      toc_depth: 2 
+          
+# Extra javascripts including sortable tables     
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - javascripts/tables.js
+
+    
+# Page tree - only 2 levels allowed
+nav:
+  - Home: index
+  #- Questions: questions
+  - User Group questions: 
+    - Find a User Group by name: user-group-name
+    - Find a User Group from a list: user-group-list
+    - Find a User Group by tag: user-group-tag
+    - Show all User Group tags: user-group-tag-list
+    - Show Children: user-group-children
+  - Business Capability questions: 
+    - Find a Business Capability by name: business-capability-name
+    - Find a Business Capability from a list: business-capability-list
+    - Find a Business Capability by tag: business-capability-tag
+    - Show all Business Capability: business-capability-tag-list
+    - Show Children: business-capability-children
+  - Process questions: 
+    - Find a Process by name: process-name
+    - Find a Process from a list: process-name
+    - Find a Process by tag: process-name
+    - Show all Process tags: process-name
+    - Show Children: business-capability-children
+  - Application questions: 
+    - Find an Application by name: application-name
+    - Find an Application from a list: application-list
+    - Find an Application by tag: application-tag
+    - Show all Application tags: application-tag-list    
+    - Find Applications by lifecycle status: application-lifecycle
+    - Show Application lifecycle counts: application-count
+  - Cancel: cancel
+  - Help: help
+  - Unknown intent: unknown  
