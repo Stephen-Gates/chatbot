@@ -11,7 +11,7 @@ Chatbot questions may be:
 ## User Groups
 
 1. What user groups do we have? 
-    - [find a user group by name](../user-group-name)
+    - [find a user group by name](../user-group-name/)
     - find a user group from a list of names
     - list user group tags 
     - find a user group by tag
@@ -35,7 +35,7 @@ Chatbot questions may be:
     - Returns a count of the next level of business capabilities.  
     - Returns Factsheet cards for the next level of business capabilities ordered alphabetically.
 1. Show me the business capability *Recruiting*. [^1]
-    - Returns a Factsheet card for the business capability, e.g. Name, description, responsible subscription(s), tags      
+    - Returns a Factsheet card for the business capability, e.g. Name, description, responsible subscription(s/), tags      
 1. Which applications support business capability *Staff Recruitment*? [^1]
     - Returns a count of supporting applications. 
     - Returns Factsheet cards ordered alphabetically.
@@ -55,7 +55,7 @@ Chatbot questions may be:
 1. Decompose the processes *Manage Human Resources*? [^1]^,^[^4]
     - Returns the next level of processes under *Manage Human Resources* in alphabetical order.
 1. Show me the process *Onboard Staff*. [^1]
-    - Returns a Factsheet card for the process, e.g. Name, description, responsible subscription(s), tags       
+    - Returns a Factsheet card for the process, e.g. Name, description, responsible subscription(s/), tags       
 1. Which applications support process *Onboard Staff*? [^1]
     - Returns a count of supporting applications. 
     - Returns Application Factsheet cards ordered alphabetically. 
@@ -80,7 +80,7 @@ Chatbot questions may be:
     - Factsheet cards are returned ordered by the end&#8209;of&#8209;life lifecycle status date.     
 <!--  Questions about a specific Application factsheet -->
 1. Show me application *Dynamics 365*? [^1]
-    - Returns a Factsheet card for the application, e.g. Name, description, lifecycle dates, successor, responsible subscription(s), tags
+    - Returns a Factsheet card for the application, e.g. Name, description, lifecycle dates, successor, responsible subscription(s/), tags
     - Asks a clarifying question if the application cannot be uniquely identified.
 1. Who uses application *Zoom*? [^1]
     - Returns a count of user groups.
@@ -92,7 +92,7 @@ Chatbot questions may be:
 
 <!--
 1. Does application *Dynamics 365* process sensitive data? 
-    - Returns a count of data objects classified as sensitive that are processed (CRUD) by the application.
+    - Returns a count of data objects classified as sensitive that are processed (CRUD/) by the application.
     - Returns a Factsheet card for the data objects classified as sensitive that are processed by the application. Factsheet cards are returned ordered by data classification and then alphabetically.
 1. Which applications are end-of-life this financial year? 
     - Returns a count of applications that have an end&#8209;of&#8209;life lifecycle status within the financial year. Factsheet cards are returned ordered by the end&#8209;of&#8209;life lifecycle status date.  
@@ -147,7 +147,7 @@ Chatbot questions may be:
     - Returns a count of the next level projects.  
     - Factsheet cards are returned for the next level of projects in alphabetical order.
 1. Show me the project *Cloud Migration*?
-    - Returns a Factsheet card for the project, e.g. Name, description, lifecycle dates, successor, responsible subscription(s), tags.
+    - Returns a Factsheet card for the project, e.g. Name, description, lifecycle dates, successor, responsible subscription(s/), tags.
 1. What is lifecycle of project *Cloud Migration* ? 
     - Returns a Factsheet card for the project with lifecycle dates promoted in the visual hierarchy. 
 -->
@@ -156,7 +156,7 @@ Chatbot questions may be:
 ## IT Components
 
 1. Show me IT Component *SQL Server*?
-    - Returns a Factsheet card for the IT Component, e.g. Name, description, lifecycle dates, successor, responsible subscription(s), tags, location
+    - Returns a Factsheet card for the IT Component, e.g. Name, description, lifecycle dates, successor, responsible subscription(s/), tags, location
 1. Where is IT Component *SQL Server* located? 
     - Returns a Factsheet card for the IT Component
 -->
@@ -171,7 +171,7 @@ Chatbot questions may be:
 1. What IT Components are in the technical category *Relational Database*? 
     - Returns a count of IT Components.
     - Returns IT Component Factsheet cards showing name, description, lifecycle, resource classification and responsible subscriptions.
-    - Factsheet cards ordered by resource classification (Approved, Conditional, Investigating, Retiring, Unapproved) 
+    - Factsheet cards ordered by resource classification (Approved, Conditional, Investigating, Retiring, Unapproved/) 
 1. What is our standard IT Component for the technical category *Relational Database*? 
     - Returns a IT Component Factsheet card where the resource classification is Approved.
 
@@ -179,7 +179,7 @@ Chatbot questions may be:
 ## Providers
 
 1. Show me provider *Microsoft*?
-    - Returns a Factsheet card for the provider, e.g. Name, description, lifecycle dates, responsible subscription(s), tags.
+    - Returns a Factsheet card for the provider, e.g. Name, description, lifecycle dates, responsible subscription(s/), tags.
 1. Who is the provider of IT component *Azure hosting*?
     - Returns a Factsheet card for the provider.
 -->
@@ -194,7 +194,7 @@ Chatbot questions may be:
 
 ## Small talk
 
-People like to test the limits of a Chatbot. It's good to [respond to small talk](../chatbot-answers/#small-talk).
+People like to test the limits of a Chatbot. It's good to [respond to small talk](../chatbot-answers/#small-talk/).
 
 ### Greetings
 
@@ -224,7 +224,7 @@ People like to test the limits of a Chatbot. It's good to [respond to small talk
 
 ### Phrases from users that are NOT HAPPY
 
-1. !#$#% (swear words)
+1. !#$#% (swear words/)
 1. You’re annoying / you suck / you’re boring/bad /crazy
 1. I want to speak to a human / live agent / customer service
 1. Don’t you speak English?!
@@ -256,6 +256,6 @@ People like to test the limits of a Chatbot. It's good to [respond to small talk
 [^5]: There a many lifecycle status and timeframe variants of this question. 
 
 <!--
-[^6]: "Data Steward" is a configured [subscription role](https://docs.leanix.net/docs/manage-subscription-roles) on the Data Object factsheet 
+[^6]: "Data Steward" is a configured [subscription role](https://docs.leanix.net/docs/manage-subscription-roles/) on the Data Object factsheet 
 [^7]: Too complex.
 -->
