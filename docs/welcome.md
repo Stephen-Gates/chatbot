@@ -11,3 +11,5 @@
 [Applications](../find-applications-by/){: .md-button .md-button--primary }
 
 Interrupt with [Cancel](../cancel/) or [Help](../help/)
+
+Type a question e.g. **[User Group France](../user-group-found/)**

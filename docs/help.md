@@ -1,11 +1,11 @@
-# :fontawesome-solid-robot:{: .blue } Get help asking questions about
+# :fontawesome-solid-robot:{: .blue } Learn more about 
 
-[User Groups](../help-user-group/){: .md-button .md-button--primary }
+[User Group questions](../help-user-group/){: .md-button .md-button--primary }
 
-[Business Capabilities](../help-business-capability/){: .md-button .md-button--primary }
+[Business Capability questions](../help-business-capability/){: .md-button .md-button--primary }
 
-[Processes](../help-process/){: .md-button .md-button--primary }
+[Process questions](../help-process/){: .md-button .md-button--primary }
 
-[Applications](../help-application/){: .md-button .md-button--primary }
+[Application questions](../help-application/){: .md-button .md-button--primary }
 
 Interrupt with [Cancel](../cancel/) or [Help](../help/)
