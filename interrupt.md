@@ -1,1 +1,1 @@
-Interrupt with [Cancel](/cancel) or [Help](/help)
+Interrupt with [Cancel](../cancel) or [Help](../help)

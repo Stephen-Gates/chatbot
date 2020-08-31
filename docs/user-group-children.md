@@ -8,7 +8,7 @@ Asked after a fact sheet has been selected.
 
 ### :fontawesome-solid-robot:{: .blue } Here’s what I found:
 
-![](/images/chatbot-card-user-group-parent.png)
+![](../images/chatbot-card-user-group-parent.png)
 
 
 ### :fontawesome-solid-user:{: .grey } types, "Show Children"
@@ -26,7 +26,7 @@ Returns an alphabetical list of fact sheets.
 
 ### :fontawesome-solid-robot:{: .blue } Here’s what I found:
 
-![](/images/chatbot-card-user-group-child.png)
+![](../images/chatbot-card-user-group-child.png)
 
 ### :fontawesome-solid-robot:{: .blue } Is that what you were looking for? Would you like to ask another question about:
 

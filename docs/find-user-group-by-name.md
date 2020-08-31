@@ -4,7 +4,7 @@
 
 Either, the User Group is:
 
-- [found](/user-group-found)
-- [not found](/user-group-not-found)
+- [found](../user-group-found)
+- [not found](../user-group-not-found)
 
-Interrupt with [Cancel](/cancel) or [Help](/help)
+Interrupt with [Cancel](../cancel) or [Help](../help)

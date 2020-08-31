@@ -11,7 +11,7 @@ Chatbot questions may be:
 ## User Groups
 
 1. What user groups do we have? 
-    - [find a user group by name](/user-group-name)
+    - [find a user group by name](../user-group-name)
     - find a user group from a list of names
     - list user group tags 
     - find a user group by tag
