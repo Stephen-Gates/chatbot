@@ -4,7 +4,7 @@
 
 ## Button driven conversation 
 
-### :fontawesome-solid-robot:{: .grey } How can I help? I can answer questions about:
+### :fontawesome-solid-robot:{: .blue } How can I help? I can answer questions about:
 
 - User Groups
 - Business Capabilities
@@ -13,7 +13,7 @@
 
 ### :fontawesome-solid-user:{: .grey } selects, "User Groups"
 
-### :fontawesome-solid-robot:{: .grey } Find a User Group using:
+### :fontawesome-solid-robot:{: .blue } Find a User Group using:
 
 - its name
 - a list of names
@@ -22,15 +22,15 @@
 
 ### :fontawesome-solid-user:{: .grey } selects, "its name"
 
-### :fontawesome-solid-robot:{: .grey } What is the User Group’s name?
+### :fontawesome-solid-robot:{: .blue } What is the User Group’s name?
 
 ### :fontawesome-solid-user:{: .grey } types, "France"
 
-### :fontawesome-solid-robot:{: .grey } Here’s what I found:
+### :fontawesome-solid-robot:{: .blue } Here’s what I found:
 
 ![](/images/chatbot-card-user-group.png)
 
-### :fontawesome-solid-robot:{: .grey } Is that what you were looking for? Would you like to ask another question about:
+### :fontawesome-solid-robot:{: .blue } Is that what you were looking for? Would you like to ask another question about:
 
 - User Groups
 - Business Capabilities
@@ -39,7 +39,7 @@
 
 ##### OR
 
-### :fontawesome-solid-robot:{: .grey } I’m sorry, I couldn’t find the User Group **France**. Here’s a list of User Groups:
+### :fontawesome-solid-robot:{: .blue } I’m sorry, I couldn’t find the User Group **France**. Here’s a list of User Groups:
 
 Returns an alphabetical list of fact sheets. 
 
@@ -48,7 +48,7 @@ Returns an alphabetical list of fact sheets.
 - Next and Previous in list options may be required. 
 - Don’t show Next or Previous if they don’t apply.
 
-### :fontawesome-solid-robot:{: .grey } Choose a fact sheet: 
+### :fontawesome-solid-robot:{: .blue } Choose a fact sheet: 
 
 - Select a fact sheet from the list
 - Next to advance through the list
@@ -56,11 +56,11 @@ Returns an alphabetical list of fact sheets.
 
 ### :fontawesome-solid-user:{: .grey } selects, "France"
 
-### :fontawesome-solid-robot:{: .grey } Here’s what I found:
+### :fontawesome-solid-robot:{: .blue } Here’s what I found:
 
 ![](/images/chatbot-card-user-group.png)
 
-### :fontawesome-solid-robot:{: .grey } Is that what you were looking for? Would you like to ask another question about:
+### :fontawesome-solid-robot:{: .blue } Is that what you were looking for? Would you like to ask another question about:
 
 - User Groups
 - Business Capabilities
@@ -72,7 +72,7 @@ Returns an alphabetical list of fact sheets.
 
 ## Natural language conversation
 
-### :fontawesome-solid-robot:{: .grey } How can I help? I can answer questions about:
+### :fontawesome-solid-robot:{: .blue } How can I help? I can answer questions about:
 
 - User Groups
 - Business Capabilities
@@ -81,11 +81,11 @@ Returns an alphabetical list of fact sheets.
 
 ### :fontawesome-solid-user:{: .grey } Show me User Group France
 
-### :fontawesome-solid-robot:{: .grey } Here’s what I found:
+### :fontawesome-solid-robot:{: .blue } Here’s what I found:
 
 ![](/images/chatbot-card-user-group.png)
 
-### :fontawesome-solid-robot:{: .grey } Is that what you were looking for? Would you like to ask another question about:
+### :fontawesome-solid-robot:{: .blue } Is that what you were looking for? Would you like to ask another question about:
 
 - User Groups
 - Business Capabilities

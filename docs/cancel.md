@@ -1,20 +1,11 @@
 # Cancel
 
-At any point the user can type or select Cancel to interrupt the conversation.
+### :fontawesome-solid-robot:{: .blue } How can I help? I can answer questions about:
 
-### :fontawesome-solid-robot:{: .grey } asked something
+[User Groups](/find-user-group-by){: .md-button .md-button--primary }
 
-### :fontawesome-solid-user:{: .grey } types, "Cancel"
+[Business Capabilities](/find-business-capability-by){: .md-button .md-button--primary }
 
-Could use other phrases like
+[Processes](/find-process-by){: .md-button .md-button--primary }
 
-- Stop
-- Wait
-
-
-### :fontawesome-solid-robot:{: .grey } How can I help? I can answer questions about:
-
-- User Groups
-- Business Capabilities
-- Processes
-- Applications
+[Applications](/find-applications-by){: .md-button .md-button--primary }

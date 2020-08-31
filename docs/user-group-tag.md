@@ -4,7 +4,7 @@
 
 ## Button driven conversation 
 
-### :fontawesome-solid-robot:{: .grey } How can I help? I can answer questions about:
+### :fontawesome-solid-robot:{: .blue } How can I help? I can answer questions about:
 
 - User Groups
 - Business Capabilities
@@ -13,7 +13,7 @@
 
 ### :fontawesome-solid-user:{: .grey } selects, "User Groups"
 
-### :fontawesome-solid-robot:{: .grey } Find a User Group using:
+### :fontawesome-solid-robot:{: .blue } Find a User Group using:
 
 - its name
 - a list of names
@@ -23,12 +23,12 @@
 ### :fontawesome-solid-user:{: .grey } selects, "a tag"
 
 
-### :fontawesome-solid-robot:{: .grey } What is the tag name?
+### :fontawesome-solid-robot:{: .blue } What is the tag name?
 
 ### :fontawesome-solid-user:{: .grey } types, "Demo"
 
 
-### :fontawesome-solid-robot:{: .grey } Here’s a list of User Groups tagged with Demo:
+### :fontawesome-solid-robot:{: .blue } Here’s a list of User Groups tagged with Demo:
 
 Returns an alphabetical list of fact sheets. 
 
@@ -36,18 +36,18 @@ Returns an alphabetical list of fact sheets.
 - Next and Previous in list options may be required. 
 - Don’t show Next or Previous if they don’t apply.
 
-### :fontawesome-solid-robot:{: .grey } Choose a fact sheet: 
+### :fontawesome-solid-robot:{: .blue } Choose a fact sheet: 
 
 - Select a fact sheet from the list
 - Next to advance through the list
 - Previous to move back through the list
 
 
-### :fontawesome-solid-robot:{: .grey } Here’s what I found:
+### :fontawesome-solid-robot:{: .blue } Here’s what I found:
 
 ![](/images/chatbot-card-user-group.png)
 
-### :fontawesome-solid-robot:{: .grey } Is that what you were looking for? Would you like to ask another question about:
+### :fontawesome-solid-robot:{: .blue } Is that what you were looking for? Would you like to ask another question about:
 
 - User Groups
 - Business Capabilities
@@ -56,7 +56,7 @@ Returns an alphabetical list of fact sheets.
 
 ## Natural language conversation
 
-### :fontawesome-solid-robot:{: .grey } How can I help? I can answer questions about:
+### :fontawesome-solid-robot:{: .blue } How can I help? I can answer questions about:
 
 - User Groups
 - Business Capabilities
@@ -65,7 +65,7 @@ Returns an alphabetical list of fact sheets.
 
 ### :fontawesome-solid-user:{: .grey } types, "Show me User Groups tagged Demo"
 
-### :fontawesome-solid-robot:{: .grey } Here’s a list of User Groups tagged with Demo:
+### :fontawesome-solid-robot:{: .blue } Here’s a list of User Groups tagged with Demo:
 
 Returns an alphabetical list of fact sheets. 
 
@@ -73,17 +73,17 @@ Returns an alphabetical list of fact sheets.
 - Next and Previous in list options may be required. 
 - Don’t show Next or Previous if they don’t apply.
 
-### :fontawesome-solid-robot:{: .grey } Choose a fact sheet: 
+### :fontawesome-solid-robot:{: .blue } Choose a fact sheet: 
 
 - Select a fact sheet from the list
 - Next to advance through the list
 - Previous to move back through the list
 
-### :fontawesome-solid-robot:{: .grey } Here’s what I found:
+### :fontawesome-solid-robot:{: .blue } Here’s what I found:
 
 ![](/images/chatbot-card-user-group.png)
 
-### :fontawesome-solid-robot:{: .grey } Is that what you were looking for? Would you like to ask another question about:
+### :fontawesome-solid-robot:{: .blue } Is that what you were looking for? Would you like to ask another question about:
 
 - User Groups
 - Business Capabilities

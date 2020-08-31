@@ -1,6 +1,6 @@
 !!! note "Work in progress"
 
-# Chatbot questions :fontawesome-solid-robot:{: .grey }
+# Chatbot questions :fontawesome-solid-robot:{: .blue }
 
 Chatbot questions may be:
 

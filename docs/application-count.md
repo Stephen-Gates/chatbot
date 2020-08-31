@@ -4,7 +4,7 @@
 
 ## Button driven conversation 
 
-### :fontawesome-solid-robot:{: .grey } How can I help? I can answer questions about:
+### :fontawesome-solid-robot:{: .blue } How can I help? I can answer questions about:
 
 - User Groups
 - Business Capabilities
@@ -13,7 +13,7 @@
 
 ### :fontawesome-solid-user:{: .grey } selects, "Applications"
 
-### :fontawesome-solid-robot:{: .grey } Find a Applications using:
+### :fontawesome-solid-robot:{: .blue } Find a Applications using:
 
 - its name
 - a list of names
@@ -25,7 +25,7 @@
 ### :fontawesome-solid-user:{: .grey } selects, "Application count"
 
 
-### :fontawesome-solid-robot:{: .grey } Here’s what I found:
+### :fontawesome-solid-robot:{: .blue } Here’s what I found:
 
 Today there are 200 Applications managed in LeanIX. Plans* show:
 
@@ -39,7 +39,7 @@ Today there are 200 Applications managed in LeanIX. Plans* show:
 
 ## Natural language conversation
 
-### :fontawesome-solid-robot:{: .grey } How can I help? I can answer questions about:
+### :fontawesome-solid-robot:{: .blue } How can I help? I can answer questions about:
 
 - User Groups
 - Business Capabilities
@@ -53,7 +53,7 @@ Or:
 - How many Applications do we have? 
 - How many Applications are being phased in?
 
-### :fontawesome-solid-robot:{: .grey } Here’s what I found:
+### :fontawesome-solid-robot:{: .blue } Here’s what I found:
 
 Today there are 200 Applications managed in LeanIX. Plans* show:
 
