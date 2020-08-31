@@ -49,7 +49,7 @@ extra:
       name: Stephen Gates on LinkedIn
     - icon: fontawesome/brands/github
       link: https://github.com/Stephen-Gates/chatbot
-      name: LeanIX Report Gallery on GitHub  
+      name: Stephen-Gates/Chatbot on GitHub  
    
 # Extensions  
 markdown_extensions:
