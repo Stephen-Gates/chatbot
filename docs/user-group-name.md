@@ -28,7 +28,7 @@
 
 ### :fontawesome-solid-robot:{: .blue } Here’s what I found:
 
-![](../images/chatbot-card-user-group.png/)
+![](../images/chatbot-card-user-group.png)
 
 ### :fontawesome-solid-robot:{: .blue } Is that what you were looking for? Would you like to ask another question about:
 
@@ -58,7 +58,7 @@ Returns an alphabetical list of fact sheets.
 
 ### :fontawesome-solid-robot:{: .blue } Here’s what I found:
 
-![](../images/chatbot-card-user-group.png/)
+![](../images/chatbot-card-user-group.png)
 
 ### :fontawesome-solid-robot:{: .blue } Is that what you were looking for? Would you like to ask another question about:
 
@@ -68,7 +68,7 @@ Returns an alphabetical list of fact sheets.
 - Applications
 
 
-![](../images/chatbot-card-user-group.png/)
+![](../images/chatbot-card-user-group.png)
 
 ## Natural language conversation
 
@@ -83,7 +83,7 @@ Returns an alphabetical list of fact sheets.
 
 ### :fontawesome-solid-robot:{: .blue } Here’s what I found:
 
-![](../images/chatbot-card-user-group.png/)
+![](../images/chatbot-card-user-group.png)
 
 ### :fontawesome-solid-robot:{: .blue } Is that what you were looking for? Would you like to ask another question about:
 

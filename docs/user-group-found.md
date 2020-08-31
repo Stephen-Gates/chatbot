@@ -1,6 +1,6 @@
 # :fontawesome-solid-robot:{: .blue } Here’s what I found:
 
-![](../images/chatbot-card-user-group.png/)
+![](../images/chatbot-card-user-group.png)
 
 ### :fontawesome-solid-robot:{: .blue } Would you like to ask another question about:
 
