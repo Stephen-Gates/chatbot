@@ -14,9 +14,8 @@ Returns an alphabetical list of level one fact sheets.
 
 [< Previous](){: .md-button .md-button--accent } [Next >](){: .md-button .md-button--accent }
 
+Interrupt with [Cancel](../cancel/), [Help](../help/) or [Type a question]()
 
 ### :fontawesome-solid-user:{: .grey } selects:
 
 [France](../user-group-found/){: .md-button .md-button--primary }
-
-Interrupt with [Cancel](../cancel/) or [Help](../help/)

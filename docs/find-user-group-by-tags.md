@@ -15,10 +15,9 @@ Returns an alphabetical list of level one fact sheet tags.
 
 [< Previous](){: .md-button .md-button--accent } [Next >](){: .md-button .md-button--accent }
 
+Interrupt with [Cancel](../cancel/), [Help](../help/) or [Type a question]()
 
 
 ### :fontawesome-solid-user:{: .grey } selects:
 
 ["Demo"](../user-group-tag-found/){: .md-button .md-button--primary }
-
-Interrupt with [Cancel](../cancel/) or [Help](../help/)

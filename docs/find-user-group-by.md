@@ -12,7 +12,7 @@ title: "Find User Group"
 
 [A list of tags][find-user-group-by-tags]{: .md-button .md-button--primary }
 
-Interrupt with [Cancel](../cancel/) or [Help](../help/)
+Interrupt with [Cancel](../cancel/), [Help](../help/) or [Type a question]()
 
 [find-user-group-by-name]: ../find-user-group-by-name/ "You could type 'User Group name'"
 [find-user-group-by-list]: ../find-user-group-by-list/ "You could type 'User Group'"

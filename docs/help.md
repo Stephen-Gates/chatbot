@@ -2,7 +2,7 @@
 title: "Help"
 ---
 
-# :fontawesome-solid-robot:{: .blue } Learn more about 
+# :fontawesome-solid-robot:{: .blue } Learn more about typing:
 
 [User Group questions](../help-user-group/){: .md-button .md-button--primary }
 
@@ -12,4 +12,4 @@ title: "Help"
 
 [Application questions](../help-application/){: .md-button .md-button--primary }
 
-Interrupt with [Cancel](../cancel/) or [Help](../help/)
+Interrupt with [Cancel](../cancel/), [Help](../help/) or [Type a question]()

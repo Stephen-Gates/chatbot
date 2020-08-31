@@ -6,6 +6,8 @@ title: "User Group Found"
 
 ![](../images/chatbot-card-user-group.png)
 
+Consider also showing children factsheets
+
 ### :fontawesome-solid-robot:{: .blue } Would you like to ask another question about:
 
 [User Groups](../find-user-group-by/){: .md-button .md-button--primary }
@@ -16,6 +18,9 @@ title: "User Group Found"
 
 [Applications](../find-applications-by/){: .md-button .md-button--primary }
 
-Interrupt with [Cancel](../cancel/) or [Help](../help/)
+Interrupt with [Cancel](../cancel/), [Help](../help/) or [Type a question]()
 
-Type a follow on question e.g. **[User Group Children](../user-group-children-found/)**
+Example follow on questions:
+
+- **[User Group Children](../user-group-children-found/)**
+- **[uses Applications]()

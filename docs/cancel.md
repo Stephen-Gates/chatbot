@@ -11,3 +11,6 @@ title: "Cancel"
 [Processes](../find-process-by/){: .md-button .md-button--primary }
 
 [Applications](../find-applications-by/){: .md-button .md-button--primary }
+
+Interrupt with [Help](../help/) or [Type a question]()
+ 

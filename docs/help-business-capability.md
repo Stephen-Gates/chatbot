@@ -12,16 +12,17 @@ Type:
 - "**Business Capability #Strategic**" to show a list of Business Capabilities with the tag "Strategic"
 - "**Business Capability Children**" to see a list of children Business Capabilities after you've selected a Business Capability
 
-Tip: Abbreviate "Business Capabilities" to "capabilities", "capability", or "bc".
+:material-lightbulb-on-outline: **Tip**: Abbreviate "Business Capabilities" to "capabilities", "capability", or "bc".
 
 ### :fontawesome-solid-robot:{: .blue } Ask a questions about:
 
-[User Groups](../help-user-group/){: .md-button .md-button--primary }
 
-[Business Capabilities](../help-business-capability/){: .md-button .md-button--primary }
+[User Groups](../find-user-group-by/){: .md-button .md-button--primary }
 
-[Processes](../help-process/){: .md-button .md-button--primary }
+[Business Capabilities](../find-business-capability-by/){: .md-button .md-button--primary }
 
-[Applications](../help-application/){: .md-button .md-button--primary }
+[Processes](../find-process-by/){: .md-button .md-button--primary }
 
-Interrupt with [Cancel](../cancel/) or [Help](../help/)
+[Applications](../find-applications-by/){: .md-button .md-button--primary }
+
+Interrupt with [Cancel](../cancel/), [Help](../help/) or [Type a question]()

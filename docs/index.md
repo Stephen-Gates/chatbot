@@ -1,6 +1,6 @@
 # Get started 
 
-This site proposes a design for a LeanIX Chatbot trying to follow [best practices](https://docs.microsoft.com/en-au/azure/bot-service/bot-service-design-principles?view=azure-bot-service-4.0/). 
+This site proposes a [design](design/) for a LeanIX Chatbot. 
 
 - **[Chat](welcome/)** with the LeanIX Chatbot.
 

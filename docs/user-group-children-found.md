@@ -12,11 +12,16 @@ title: "User Group Children Found"
 
 [< Previous](){: .md-button .md-button--accent } [Next >](){: .md-button .md-button--accent }
 
+Interrupt with [Cancel](../cancel/), [Help](../help/) or [Type a question]()
+
+
+Example follow on questions:
+
+- **[User Group Children](../user-group-children-not-found/)**
+- **[uses Applications]()
+
+
 
 ### :fontawesome-solid-user:{: .grey } selects:
 
 [France / Dijon](../user-group-found/){: .md-button .md-button--primary }
-
-Interrupt with [Cancel](../cancel/) or [Help](../help/)
-
-Type a follow on question e.g. **[User Group Children](../user-group-children-not-found/)**

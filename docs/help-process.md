@@ -12,16 +12,18 @@ Type:
 - "**Process #Manual**" to show a list of Processes with the tag "Manual"
 - "**Process Children**" to see a list of children Processes after you've selected a Process
 
-Tip: Abbreviate "Processes" to "process".
+:material-lightbulb-on-outline: **Tip**: Abbreviate "Processes" to "process".
 
 ### :fontawesome-solid-robot:{: .blue } Ask a questions about:
 
-[User Groups](../help-user-group/){: .md-button .md-button--primary }
 
-[Business Capabilities](../help-business-capability/){: .md-button .md-button--primary }
+[User Groups](../find-user-group-by/){: .md-button .md-button--primary }
 
-[Processes](../help-process/){: .md-button .md-button--primary }
+[Business Capabilities](../find-business-capability-by/){: .md-button .md-button--primary }
 
-[Applications](../help-application/){: .md-button .md-button--primary }
+[Processes](../find-process-by/){: .md-button .md-button--primary }
 
-Interrupt with [Cancel](../cancel/) or [Help](../help/)
+[Applications](../find-applications-by/){: .md-button .md-button--primary }
+
+
+Interrupt with [Cancel](../cancel/), [Help](../help/) or [Type a question]()
