@@ -1,3 +1,7 @@
+---
+title: "User Group Found"
+---
+
 # :fontawesome-solid-robot:{: .blue } Here’s what I found:
 
 ![](../images/chatbot-card-user-group.png)

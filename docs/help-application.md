@@ -1,3 +1,7 @@
+---
+title: "Application Help"
+---
+
 # :fontawesome-solid-robot:{: .blue } Ask questions about Applications
 
 Type: 

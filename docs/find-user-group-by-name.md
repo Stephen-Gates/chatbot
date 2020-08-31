@@ -1,3 +1,7 @@
+---
+title: "Find User Group by Name"
+---
+
 # :fontawesome-solid-robot:{: .blue } What's the User Group’s name?
 
 ### :fontawesome-solid-user:{: .grey } types, "France"

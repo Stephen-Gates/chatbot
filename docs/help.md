@@ -1,3 +1,7 @@
+---
+title: "Help"
+---
+
 # :fontawesome-solid-robot:{: .blue } Learn more about 
 
 [User Group questions](../help-user-group/){: .md-button .md-button--primary }

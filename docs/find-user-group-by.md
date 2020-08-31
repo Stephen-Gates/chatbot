@@ -1,3 +1,7 @@
+---
+title: "Find User Group"
+---
+
 # :fontawesome-solid-robot:{: .blue } Find a User Group by:
 
 [Name][find-user-group-by-name]{: .md-button .md-button--primary } 

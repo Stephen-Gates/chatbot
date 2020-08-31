@@ -1,3 +1,7 @@
+---
+title: "Business Capability Help"
+---
+
 # :fontawesome-solid-robot:{: .blue } Ask questions about Business Capabilities
 
 Type: 

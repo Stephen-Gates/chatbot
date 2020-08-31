@@ -1,6 +1,8 @@
-# Cancel
+---
+title: "Cancel"
+---
 
-### :fontawesome-solid-robot:{: .blue } How can I help? I can answer questions about:
+# :fontawesome-solid-robot:{: .blue } How can I help? I can answer questions about:
 
 [User Groups](../find-user-group-by/){: .md-button .md-button--primary }
 
