@@ -15,7 +15,7 @@ Type:
 
 Type 
 
-- "**Application Count**" to see a total count of Applications and sub-totals by Application lifecycle status.
+- "**Count Applications**" to see a total count of Applications and sub-totals by Application lifecycle status.
 
 
 ### :fontawesome-solid-robot:{: .blue } Ask a questions about:

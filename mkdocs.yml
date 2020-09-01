@@ -68,7 +68,7 @@ markdown_extensions:
   - pymdownx.tabbed
   - toc:
       #permalink: ⚓︎
-      toc_depth: 0
+      toc_depth: 2
           
 # Extra javascripts including sortable tables     
 extra_javascript:
