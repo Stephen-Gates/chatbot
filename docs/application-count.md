@@ -1,33 +1,13 @@
-!!! note "Work in progress"
-
-# Count Applications by lifecycle status
-
-## Button driven conversation 
-
-### :fontawesome-solid-robot:{: .blue } How can I help? I can answer questions about:
-
-- User Groups
-- Business Capabilities
-- Processes
-- Applications
-
-### :fontawesome-solid-user:{: .grey } selects, "Applications"
-
-### :fontawesome-solid-robot:{: .blue } Find a Applications using:
-
-- its name
-- a list of names
-- a tag
-- a list of tags
-- lifecycle status
-- Application count
-
-### :fontawesome-solid-user:{: .grey } selects, "Application count"
+---
+title: "Application Count"
+---
 
 
-### :fontawesome-solid-robot:{: .blue } Here’s what I found:
+# :fontawesome-solid-robot:{: .blue } Here’s what I found:
 
-Today there are 200 Applications managed in LeanIX. Plans* show:
+There are 200 Applications managed in LeanIX. 
+
+Plans* show:
 
 - 183 active applications
 - 8 being phased out
@@ -37,28 +17,15 @@ Today there are 200 Applications managed in LeanIX. Plans* show:
 
 \* Projects may not be established to implement plans. 
 
-## Natural language conversation
 
 ### :fontawesome-solid-robot:{: .blue } How can I help? I can answer questions about:
 
-- User Groups
-- Business Capabilities
-- Processes
-- Applications
+[User Groups](../find-user-group-by/){: .md-button .md-button--primary }
 
-### :fontawesome-solid-user:{: .grey } Count Applications
+[Business Capabilities](../find-business-capability-by/){: .md-button .md-button--primary }
 
-Or:
+[Processes](../find-process-by/){: .md-button .md-button--primary }
 
-- How many Applications do we have? 
-- How many Applications are being phased in?
+[Applications](../find-applications-by/){: .md-button .md-button--primary }
 
-### :fontawesome-solid-robot:{: .blue } Here’s what I found:
-
-Today there are 200 Applications managed in LeanIX. Plans* show:
-
-- There are 183 Active Applications
-- 8 Applications are currently being phased out
-- 3 Applications are being phased in within the next 6 months
-- 2 Applications are being retired within the next 6 months
-- 4 new Applications are being planned
+Interrupt with [Help](../help/) or [Type a question]()
